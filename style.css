@@ -6,3 +6,7 @@ h1, h2 {
 nav {
     font-weight: 800;
 }
+
+.container {
+    margin: 20px;
+}
